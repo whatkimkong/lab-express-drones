@@ -10,3 +10,10 @@ a {
 .bg {
   background-color:palegreen;
 }
+
+.nb {
+  background-color: palegreen;
+  margin: 0;
+  padding: 10;
+  padding-right: 100;
+}
